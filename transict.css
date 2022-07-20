@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.design{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.first {
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+    height: 70vh;
+    color: blanchedalmond;
+}
+
+.first-heading animate {
+    align-items: center;
+    text-align: center;
+    left: 100px;
+    color: blanchedalmond;
+}
